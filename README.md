@@ -1,6 +1,6 @@
 This repo was used in the Udacity Full Stack Nanodegree Program in the Server Deployment and Containerization course to set up AWS CodePipeline and CodeBuild to deploy an EKS cluster on code change in a GitHub repo.
 
-You must use Python 3.12, as of this time, to get things to build since Python 3.7 is not supported anymore in AWS Lambda.
+You must use Python 3.9, as of this time, to get things to build since Python 3.7 is not supported anymore in AWS Lambda.
 
 # Purpose of This Repo
 
