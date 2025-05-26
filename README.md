@@ -1,3 +1,5 @@
+This repo was used in the Udacity Full Stack Nanodegree Program in the Server Deployment and Containerization course to set up AWS CodePipeline and CodeBuild to deploy an EKS cluster on code change in a GitHub repo.
+
 # Purpose of This Repo
 
 This repos has a sample "Hello World" flask application that we will deploy on EKS cluster using the AWS Codebuild and Codepipeline services. 
